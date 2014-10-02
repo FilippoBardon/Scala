@@ -1,0 +1,3 @@
+Per far partire l'IDE per Scala, digitare su terminale:
+$> UBUNTU_MENUPROXY=0 Scrivania/eclipse/eclipse
+ 
