@@ -1,0 +1,12 @@
+Comandi per aggiornamento git:
+
+\\aggiungere nuovi file
+$> git add <nome_file>
+
+\\fare il commit
+$> git commit -m <"Descrizione_commit">
+
+\\aggiornare il repository remoto (prevede inserimento credenziali)
+$> git push origin master
+
+
