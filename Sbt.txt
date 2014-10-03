@@ -1,0 +1,7 @@
+Sbt è un interprete per Scala utilizzabile da terminale.
+Creare una cartella dove inserire i file (.scala) da eseguire.
+Spostarsi in quella cartella.
+Per far partire sbt digitare su terminale:
+$> sbt
+Per eseguire il file digitare:
+$> run <nome_file>
